@@ -1,0 +1,12 @@
+D:\a\Kpsirs.Models.New\bin\Debug\net7.0\Kpsirs.Models.New.deps.json
+D:\a\Kpsirs.Models.New\bin\Debug\net7.0\Kpsirs.Models.New.dll
+D:\a\Kpsirs.Models.New\bin\Debug\net7.0\Kpsirs.Models.New.pdb
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\Kpsirs.Models.New.csproj.AssemblyReference.cache
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\Kpsirs.Models.New.GeneratedMSBuildEditorConfig.editorconfig
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\Kpsirs.Models.New.AssemblyInfoInputs.cache
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\Kpsirs.Models.New.AssemblyInfo.cs
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\Kpsirs.Models.New.csproj.CoreCompileInputs.cache
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\Kpsirs.Models.New.dll
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\refint\Kpsirs.Models.New.dll
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\Kpsirs.Models.New.pdb
+D:\a\Kpsirs.Models.New\obj\Debug\net7.0\ref\Kpsirs.Models.New.dll
